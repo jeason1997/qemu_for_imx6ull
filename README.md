@@ -1,3 +1,5 @@
+内核地址：[https://github.com/jeason1997/qemu_imx6ull_kernel]
+
  
 # 1. 简介
 百问网对QEMU做了大量改动,<br>
@@ -105,3 +107,4 @@ sudo apt-get install  libpixman-1-dev
 然后就可以执行  `qemu-imx6ul-gui.sh` 或 `qemu-imx6ul-nogui.sh`来使用您编译出来的QEMU了
 
 ![输入图片说明](https://qemu.oss-cn-shenzhen.aliyuncs.com/qemu_git_show.gif "")
+
